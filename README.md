@@ -34,9 +34,7 @@ Hi, I am **Prathamesh Jadhav**, currently pursuing **Third Year Electronics & Co
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prathamesh693&show_icons=true&theme=radical" alt="Prathamesh's GitHub Stats" />
-</p>
-
-<p align="left">
+</p> <p align="left">
   <img src="https://streak-stats.demolab.com?user=prathamesh693&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
