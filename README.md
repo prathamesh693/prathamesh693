@@ -11,19 +11,19 @@
 
 ### 👨‍💻 About Me
 
-Hi, I am **Prathamesh Jadhav**, currently pursuing **Third Year Electronics & Communication Engineering (TY ECE)**.
+Hi, I am **Prathamesh Jadhav**, currently pursuing **Third Year Electronics & Computer Engineering**.
 
 🔍 I’m passionate about:
 - 📊 Data Science & Analytics  
 - 🤖 Machine Learning  
-- 📈 Building insightful dashboards with **Power BI**  
+- 📈 Building insightful dashboards with **Power BI** **&** **Streamlit** 
 - 🐍 Programming with Python and SQL
 
 ---
 
 ### 🧠 Skills
 
-- 💻 Python | SQL | Jupyter Notebooks  
+- 💻 Python | SQL | C   
 - 📊 Power BI | Data Visualization  
 - 📚 Machine Learning | Scikit-learn | Pandas  
 - 🛠️ Git | GitHub | Data Cleaning
