@@ -66,15 +66,25 @@ Certified in Data Science and Artificial Intelligence from Sanjivani University,
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prathamesh693&show_icons=true&theme=radical" alt="Prathamesh's GitHub Stats" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prathamesh693&show_icons=true&theme=radical&count_private=true" alt="Prathamesh's GitHub Stats" width="450" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=prathamesh693&theme=radical&hide_border=true" alt="GitHub Streak" width="450" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathamesh693&theme=radical&hide_border=true" alt="GitHub Streak" width="450" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamesh693&layout=compact&theme=radical" alt="Top Languages" width="450" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prathamesh693&theme=react-dark&hide_border=true" alt="Contribution Graph" width="700" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamesh693&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="450" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prathamesh693&repo=04_Sales-and-Demand-Forecasting-for-Retail-Chains&theme=radical" alt="Pinned Repo 1" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prathamesh693&repo=02_Customer-Churn-Prediction-in-Telecom-Industry&theme=radical" alt="Pinned Repo 2" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prathamesh693&repo=01_Credit-Card-Fraud-Detection-Using-Anomaly-Detection&theme=radical" alt="Pinned Repo 3" width="300" />
 </p>
 
 ---
