@@ -65,7 +65,7 @@ Certified in Data Science and Artificial Intelligence from Sanjivani University,
 
 ### 📊 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=prathamesh693&show_icons=true&theme=radical&count_private=true" alt="Prathamesh's GitHub Stats height="300" " width="450" style="float: left;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=prathamesh693&show_icons=true&theme=radical&count_private=true" alt="Prathamesh's GitHub Stats" width="500" style="float: left;"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathamesh693&theme=radical&hide_border=true" alt="GitHub Streak" width="500" style="float: right;"/>
 </p>
 <div style="clear: both;"></div>
