@@ -8,13 +8,22 @@
 
 ### 👨‍💻 About Me
 
-Hi, I am **Prathamesh Jadhav**, currently pursuing **Third Year Electronics & Computer Engineering**.
+Hi, I am **Prathamesh Jadhav**, passionate about leveraging **Electronics and computer engineering** knowledge to build impactful **Data science, ML and AI projects**.
 
 🔍 I’m passionate about:
 - 📊 Data Science & Analytics  
 - 🤖 Machine Learning  
 - 📈 Building insightful dashboards with **Power BI** **&** **Streamlit** 
 - 🐍 Programming with Python and SQL
+
+---
+### 🎓 Certification & Project Highlights
+
+Certified in Data Science and Artificial Intelligence from Sanjivani University, with hands-on experience in 10+ industry-level projects including:
+- Customer Churn Prediction in Telecom (Data Science)
+- Credit Card Fraud Detection using Anomaly Detection (Machine Learning)
+- Medical Image Diagnosis for Skin Cancer Detection (Artificial Intelligence)
+- Other Project are on Git Reposiratory.
 
 ---
 
