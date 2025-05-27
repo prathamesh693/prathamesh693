@@ -66,11 +66,8 @@ Certified in Data Science and Artificial Intelligence from Sanjivani University,
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prathamesh693&show_icons=true&theme=radical&count_private=true" alt="Prathamesh's GitHub Stats" width="450" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathamesh693&theme=radical&hide_border=true" alt="GitHub Streak" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prathamesh693&repo=04_Sales-and-Demand-Forecasting-for-Retail-Chains&theme=radical" alt="Pinned Repo 1" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prathamesh693&repo=02_Customer-Churn-Prediction-in-Telecom-Industry&theme=radical" alt="Pinned Repo 2" width="300" />
 </p>
 
 <p align="center">
