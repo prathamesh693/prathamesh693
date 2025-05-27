@@ -1,10 +1,7 @@
-<h1 align="center">Hi There! 👋</h1>
+<h1 align="center">Hi There! 👋 I'm Prathamesh</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" />
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" />
+  <em>Third Year Electronics & Computer Engineering Student | Data Science Enthusiast | Data Analyst Enthusiast | ML Learner</em>
 </p>
 
 ---
