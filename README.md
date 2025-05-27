@@ -48,8 +48,8 @@ Hi, I am **Prathamesh Jadhav**, currently pursuing **Third Year Electronics & Co
 
 ### 🔗 Let's Connect
 
-📫 Email: [sample@example.com](mailto:sample@example.com)  
-🔗 LinkedIn: [used sample one](https://linkedin.com/in/sample)
+📫 Email: [prathameshj693@gmail.com](mailto:prathameshj693@gmail.com)  
+🔗 LinkedIn: [https://www.linkedin.com/in/prathamesh-jadhav-78b02523a/](https://www.linkedin.com/in/prathamesh-jadhav-78b02523a/)
 
 ---
 
