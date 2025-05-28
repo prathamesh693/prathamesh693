@@ -38,6 +38,10 @@ Hi, I am **Prathamesh Jadhav**, passionate about leveraging **Electronics and co
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-FF7F50?style=for-the-badge&logo=python&logoColor=blue" />
   <img src="https://img.shields.io/badge/XGBoost-EC252D?style=for-the-badge&logo=python&logoColor=white" />
+  - ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)  
+- ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)  
+- ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)  
+- ![Joblib](https://img.shields.io/badge/Joblib-008000?logo=python&logoColor=white)
 </p>
 
 💻 Data Tools
