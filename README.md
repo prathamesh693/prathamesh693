@@ -18,9 +18,8 @@ Hi, I am **Prathamesh Jadhav**, passionate about leveraging **Electronics and co
 
 ---
 
-### 🧠 Skills
+### 🛠️ Skills
 
-🛠️ Skills
 🚀 Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
