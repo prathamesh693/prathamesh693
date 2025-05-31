@@ -40,6 +40,10 @@ Hi, I am **Prathamesh Jadhav**, passionate about leveraging **Electronics and co
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Joblib-008000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Random_Forest-0C4C8A?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/ARIMA-8B0000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LSTM-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prophet-563D7C?style=for-the-badge&logo=facebook&logoColor=white" />
 </p>
 
 💻 Data Tools
@@ -52,6 +56,7 @@ Hi, I am **Prathamesh Jadhav**, passionate about leveraging **Electronics and co
   <img src="https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyder-ide&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kaggle_API-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
 </p>
 
 ---
