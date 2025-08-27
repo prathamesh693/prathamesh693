@@ -1,7 +1,7 @@
 <h1 align="center">Hi There! 👋 I'm Prathamesh</h1>
 
 <p align="center">
-  <em>Final Year Electronics & Computer Engineering Student | Data Science Enthusiast | Data Analyst Enthusiast | AI & ML Learner</em>
+  <em>Final Year Electronics & Computer Engineering Student | Data Science Enthusiast | Data Analyst Enthusiast | AI & ML Learner </em>
 </p>
 
 ---
