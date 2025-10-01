@@ -13,7 +13,7 @@ Hi, I am **Prathamesh Jadhav**, passionate about leveraging **Electronics and co
 🔍 I’m passionate about:
 - 📊 Data Science & Analytics  
 - 🤖 Machine Learning  
-- 📈 Building insightful dashboards with **Power BI** **&** **Streamlit** 
+- 📈 Building insightful dashboards with **Power BI** **&** **Fast API** 
 - 🐍 Programming with **Python** and **SQL**
 
 ---
