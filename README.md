@@ -74,9 +74,9 @@ Hi, I am **Prathamesh Jadhav**, passionate about leveraging **Electronics and co
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prathamesh693&repo=Customer-Churn-Prediction-in-Telecom-Industry&theme=radical" alt="Pinned Repo 1" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prathamesh693&repo=Toxic-Text-Detection-using-Deep-Learning&theme=radical" alt="Pinned Repo 1" width="300" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=prathamesh693&repo=Credit-Card-Fraud-Detection-Using-Anomaly-Detection&theme=radical" alt="Pinned Repo 2" width="300" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prathamesh693&repo=Sales-and-Demand-Forecasting-for-Retail-Chains&theme=radical" alt="Pinned Repo 3" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prathamesh693&repo=Data_Monster&theme=radical" alt="Pinned Repo 3" width="300" />
 </p>
 
 ---
