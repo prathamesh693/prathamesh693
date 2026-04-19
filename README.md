@@ -84,20 +84,17 @@
 # 🌐 Connect with Me
 
 <p align="left">
-  <a href="[https://www.linkedin.com/in/pratik-shirsath-pratt/](https://www.linkedin.com/in/prathamesh-jadhav-78b02523a/)">
+  <a href="https://www.linkedin.com/in/prathamesh-jadhav-78b02523a/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:prathameshj693@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/Pratt_33/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
   <a href="https://www.kaggle.com/prathameshjadhav693">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
-  <a href="https://www.naukri.com/mnjuser/profile?id=&altresid">
-    <img src="https://img.shields.io/badge/Coding%20Ninjas-DD6620?style=for-the-badge&logo=code&logoColor=white" />
+  <a href="https://www.naukri.com/mnjuser/profile?id=YOUR_ID">
+    <img src="https://img.shields.io/badge/Naukri-00355D?style=for-the-badge&logo=naukri&logoColor=white" alt="Naukri Profile" />
   </a>
 </p>
 
