@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Prathamesh Jadhav</h1>
 <h3 align="center" style="color: #1D8BF1; font-weight: normal;">Electronics & Computer Engineer</h3>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1D8BF1&center=true&vcenter=true&width=600&lines=%7B+Aspiring+Data+Scientist+%7C+AI%2FML+Honours+%7D;%7B+ML+%7C+NLP+%7C+GenAI+%7C+DS+%7C+DA+%7D;%7B+Open+to+Collaboration+%26+Opportunities!+%7D" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1D8BF1&center=true&vcenter=true&width=600&lines=Aspiring+Data+Scientist+|+AI/ML+Honours;ML+|+NLP+|+GenAI+|+DS+|+DA;Open+to+Collaboration+and+Opportunities!&refresh=true" />
+</p>
 
 ---
 
