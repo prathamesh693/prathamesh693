@@ -11,16 +11,18 @@
 Hi, I am **Prathamesh Jadhav**, passionate about leveraging **Electronics and computer engineering** knowledge to build impactful **Data science, ML and AI projects**.
 
 🔍 I’m passionate about:
-- 📊 Data Science & Analytics  
-- 🤖 Machine Learning  
-- 📈 Building insightful dashboards with **Power BI** **&** **Fast API** 
-- 🐍 Programming with **Python** and **SQL**
+
+* 📊 Data Science & Analytics
+* 🤖 Machine Learning
+* 📈 Building insightful dashboards with **Power BI** **&** **Fast API**
+* 🐍 Programming with **Python** and **SQL**
 
 ---
 
 ### 🛠️ Skills
 
 🚀 Programming Languages
+
 <p align="left">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -29,6 +31,7 @@ Hi, I am **Prathamesh Jadhav**, passionate about leveraging **Electronics and co
 </p>
 
 📚 Libraries & Frameworks
+
 <p align="left">
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -44,6 +47,7 @@ Hi, I am **Prathamesh Jadhav**, passionate about leveraging **Electronics and co
 </p>
 
 💻 Data Tools
+
 <p align="left">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -59,9 +63,10 @@ Hi, I am **Prathamesh Jadhav**, passionate about leveraging **Electronics and co
 ---
 
 ### 📊 GitHub Stats
+
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=prathamesh693&show_icons=true&theme=radical&count_private=true" alt="Prathamesh's GitHub Stats" width="400" style="float: left;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathamesh693&theme=radical&hide_border=true" alt="GitHub Streak" width="400" style="float: right;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=prathamesh693&show_icons=true&theme=radical&count_private=true&cache_seconds=1800" alt="Prathamesh's GitHub Stats" width="400" style="float: left;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathamesh693&theme=radical&hide_border=true&cache_seconds=1800" alt="GitHub Streak" width="400" style="float: right;"/>
 </p>
 <div style="clear: both;"></div>
 
@@ -70,13 +75,13 @@ Hi, I am **Prathamesh Jadhav**, passionate about leveraging **Electronics and co
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamesh693&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamesh693&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages" width="450" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prathamesh693&repo=Toxic-Text-Detection-using-Deep-Learning&theme=radical" alt="Pinned Repo 1" width="300" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prathamesh693&repo=Data_Monster&theme=radical" alt="Pinned Repo 2" width="300" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prathamesh693&repo=Advanced_AI_Assistant_Zero_3.0&theme=radical" alt="Pinned Repo 3" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prathamesh693&repo=Toxic-Text-Detection-using-Deep-Learning&theme=radical&cache_seconds=1800" alt="Pinned Repo 1" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prathamesh693&repo=Data_Monster&theme=radical&cache_seconds=1800" alt="Pinned Repo 2" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prathamesh693&repo=Advanced_AI_Assistant_Zero_3.0&theme=radical&cache_seconds=1800" alt="Pinned Repo 3" width="300" />
 </p>
 
 ---
@@ -91,17 +96,17 @@ Hi, I am **Prathamesh Jadhav**, passionate about leveraging **Electronics and co
 
 ### 🔗 Let's Connect
 
-📫 Email: [prathameshj693@gmail.com](mailto:prathameshj693@gmail.com)  
-🔗 LinkedIn: [https://www.linkedin.com/in/prathamesh-jadhav-78b02523a/](https://www.linkedin.com/in/prathamesh-jadhav-78b02523a/)
+📫 Email: [prathameshj693@gmail.com](mailto:prathameshj693@gmail.com)
+🔗 LinkedIn: https://www.linkedin.com/in/prathamesh-jadhav-78b02523a/
 
 ---
 
 ### 🎯 Goals for 2025
 
-- ✅ Build end-to-end data projects  
-- ✅ Contribute to open-source  
-- ✅ Complete ML/AI internships  
-- ✅ Publish Power BI dashboards
+* ✅ Build end-to-end data projects
+* ✅ Contribute to open-source
+* ✅ Complete ML/AI internships
+* ✅ Publish Power BI dashboards
 
 ---
 
