@@ -1,21 +1,11 @@
-<h1 align="center">Hi There! 👋 I'm Prathamesh</h1>
+[![](https://visitcount.itsvg.in/api?id=prathamesh693&icon=5&color=4)](https://github.com/prathamesh693)
 
-<p align="center">
-  <em>Final Year Electronics & Computer Engineering Student | Data Science | Data Analyst | AI & ML Learner </em>
-</p>
+<h1 align="center">Hi 👋, I'm Prathamesh Jadhav</h1>
+<h3 align="center" style="color: #1D8BF1; font-weight: normal;">Electronics & Computer Engineer</h3>
 
----
-
-### 👨‍💻 About Me
-
-Hi, I am **Prathamesh Jadhav**, passionate about leveraging **Electronics and computer engineering** knowledge to build impactful **Data science, ML and AI projects**.
-
-🔍 I’m passionate about:
-
-* 📊 Data Science & Analytics
-* 🤖 Machine Learning
-* 📈 Building insightful dashboards with **Power BI** **&** **Fast API**
-* 🐍 Programming with **Python** and **SQL**
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1D8BF1&center=true&vcenter=true&width=600&lines=%7B+Aspiring+Data+Scientist+%7C+AI%2FML+Honours+%7D;%7B+ML+%7C+NLP+%7C+GenAI+%7C+DS+%7C+DA+%7D;%7B+Open+to+Collaboration+%26+Opportunities!+%7D" alt="Typing SVG" />
+</div>
 
 ---
 
@@ -36,14 +26,12 @@ Hi, I am **Prathamesh Jadhav**, passionate about leveraging **Electronics and co
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-FF7F50?style=for-the-badge&logo=python&logoColor=blue" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/XGBoost-EC252D?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Random_Forest-0C4C8A?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/ARIMA-8B0000?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/LSTM-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prophet-563D7C?style=for-the-badge&logo=facebook&logoColor=white" />
 </p>
 
 💻 Data Tools
@@ -86,28 +74,32 @@ Hi, I am **Prathamesh Jadhav**, passionate about leveraging **Electronics and co
 
 ---
 
-### 🏆 GitHub Trophies
-
+# 🏆 GitHub Trophies
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=prathamesh693&theme=radical&no-frame=false&margin-w=15" alt="prathamesh693" />
+  <img src="https://github-profile-trophy.vercel.app/?username=prathamesh693&theme=dracula&no-frame=true&margin-w=4" />
+</p>
+
+---
+
+# 🌐 Connect with Me
+
+<p align="left">
+  <a href="[https://www.linkedin.com/in/pratik-shirsath-pratt/](https://www.linkedin.com/in/prathamesh-jadhav-78b02523a/)">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:prathameshj693@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Pratt_33/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/prathameshjadhav693">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="https://www.naukri.com/mnjuser/profile?id=&altresid">
+    <img src="https://img.shields.io/badge/Coding%20Ninjas-DD6620?style=for-the-badge&logo=code&logoColor=white" />
   </a>
 </p>
----
-
-### 🔗 Let's Connect
-
-📫 Email: [prathameshj693@gmail.com](mailto:prathameshj693@gmail.com)
-🔗 LinkedIn: https://www.linkedin.com/in/prathamesh-jadhav-78b02523a/
-
----
-
-### 🎯 Goals for 2025
-
-* ✅ Build end-to-end data projects
-* ✅ Contribute to open-source
-* ✅ Complete ML/AI internships
-* ✅ Publish Power BI dashboards
 
 ---
 
