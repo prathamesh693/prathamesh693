@@ -89,7 +89,7 @@ Hi, I am **Prathamesh Jadhav**, passionate about leveraging **Electronics and co
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prathamesh693&theme=onedark&no-frame=true&row=1&column=6&margin-w=15&margin-h=15&v=2" />
+  <img src="https://github-profile-trophy.vercel.app/?username=prathamesh693&v=2" />
 </p>
 ---
 
