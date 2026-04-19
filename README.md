@@ -1,4 +1,4 @@
-<h1 align="center">Hi There! 👋 I'm Prathamesh</h1>
+<img width="1917" height="850" alt="image" src="https://github.com/user-attachments/assets/1f17eaac-696e-44ad-bd82-27b4865acd7f" /><h1 align="center">Hi There! 👋 I'm Prathamesh</h1>
 
 <p align="center">
   <em>Final Year Electronics & Computer Engineering Student | Data Science Enthusiast | Data Analyst Enthusiast | AI & ML Learner </em>
@@ -74,6 +74,7 @@ Hi, I am **Prathamesh Jadhav**, passionate about leveraging **Electronics and co
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prathamesh693&repo=Toxic-Text-Detection-using-Deep-Learning&theme=radical" alt="Pinned Repo 1" width="300" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=prathamesh693&repo=Credit-Card-Fraud-Detection-Using-Anomaly-Detection&theme=radical" alt="Pinned Repo 2" width="300" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=prathamesh693&repo=Advanced_AI_Assistant_Zero_3.0r&theme=radical" alt="Pinned Repo 3" width="300" />
 </p>
