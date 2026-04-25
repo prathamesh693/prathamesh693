@@ -54,7 +54,7 @@
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=prathamesh693&show_icons=true&theme=radical&count_private=true&cache_seconds=1800" alt="Prathamesh's GitHub Stats" width="400" style="float: left;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathamesh693&theme=radical&hide_border=true&cache_seconds=1800" alt="GitHub Streak" width="400" style="float: right;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathamesh693&cache_seconds=1" alt="GitHub Streak" width="400" style="float: right;"/>
 </p>
 <div style="clear: both;"></div>
 
