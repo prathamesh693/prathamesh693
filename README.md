@@ -4,7 +4,7 @@
 <h3 align="center" style="color: #1D8BF1; font-weight: normal;">Electronics & Computer Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1D8BF1&center=true&vcenter=true&width=600&lines=Aspiring+Data+Scientist+|+AI/ML+Honours;ML+|+NLP+|+GenAI+|+DS+|+DA;Open+to+Collaboration+and+Opportunities!&refresh=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1D8BF1&center=true&vcenter=true&width=600&lines=Aspiring+Data+Scientist+|+AI/ML+Honors;ML+|+NLP+|+GenAI+|+DS+|+DA;Open+to+Collaboration+and+Opportunities!&refresh=true" />
 </p>
 
 ---
