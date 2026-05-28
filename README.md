@@ -6,7 +6,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1D8BF1&center=true&vcenter=true&width=600&lines=Aspiring+Data+Scientist+|+AI/ML+Honors;ML+|+NLP+|+GenAI+|+DS+|+DA;Open+to+Collaboration+and+Opportunities!&refresh=true" />
 </p>
-
 ---
 
 ### 🛠️ Skills
