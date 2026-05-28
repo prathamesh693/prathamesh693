@@ -6,7 +6,16 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1D8BF1&center=true&vcenter=true&width=600&lines=Aspiring+Data+Scientist+|+AI/ML+Honors;ML+|+NLP+|+GenAI+|+DS+|+DA;Open+to+Collaboration+and+Opportunities!&refresh=true" />
 </p>
+
 ---
+
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamesh693&label=Profile%20views&color=0e75b6&style=flat" alt="prathamesh693" /> </p>
+
+- 🌱 I’m currently learning **Agentic AI** and Exploring **Vibe Coding**
+
+- 📫 How to reach me **prathameshj693@gmail.com**
 
 ### 🛠️ Skills
 
