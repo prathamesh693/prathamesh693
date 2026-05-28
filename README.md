@@ -82,13 +82,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prathamesh693&theme=dracula&no-frame=true&margin-w=4" />
-</p>
-
----
-
 # 🌐 Connect with Me
 
 <p align="left">
