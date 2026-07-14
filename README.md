@@ -103,4 +103,4 @@
 
 ### 🌟 Fun Fact
 
-> "In God we trust. All others must bring data." – W. Edwards Deming dd
+> "In God we trust. All others must bring data." – W. Edwards Deming
